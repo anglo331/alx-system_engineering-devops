@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp/sym -regex '\/tmp\/sym\/{A..Z}[01]' -exec mv {} /tmp/u/
+find /tmp/sym -regex '{A..Z}[01]*' -exec mv {} /tmp/u/
