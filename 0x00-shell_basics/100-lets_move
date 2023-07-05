@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type f -name "[[:upper:]]" -exec mv {} /tmp/u/
+find /tmp/sym -type f -name "0-1_[[:upper:]]" -exec mv {} /tmp/u/
