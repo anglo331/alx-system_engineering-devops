@@ -1,1 +1,1 @@
-> # Hi :wave:
+Hi :wave:
