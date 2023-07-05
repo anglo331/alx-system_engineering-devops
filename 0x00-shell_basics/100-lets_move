@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp/sym -regex '{A..Z}[01]*' -exec mv {} /tmp/u/
+find ./ -type f -name "[[:upper:]]" -exec mv {} /tmp/u/
