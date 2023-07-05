@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp/sym -type f -name +"1-2_[[:upper:]]" -exec mv {} /tmp/u/
+mv [A-Z]* /tmp/u
