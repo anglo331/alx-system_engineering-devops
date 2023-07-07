@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --refranc=olleh hello
+chmod --reference=elloh hello
