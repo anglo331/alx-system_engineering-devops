@@ -1,2 +1,2 @@
 #!/bin/bash
-find Example -type f -exec (chmod +x {})
+chmod -R ugo+x .
