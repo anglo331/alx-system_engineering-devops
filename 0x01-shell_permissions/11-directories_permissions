@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ogu+x *
+find Example -type f -exec chmod 644 {} \;
